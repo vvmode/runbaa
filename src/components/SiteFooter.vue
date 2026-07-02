@@ -11,7 +11,7 @@ const year = new Date().getFullYear();
                 <div class="md:col-span-2">
                     <Logo light />
                     <p class="mt-4 max-w-sm text-sm leading-relaxed text-slate-400">
-                        Runbaa Tech Pvt. Ltd. is a Maldivian software development and publishing company delivering
+                        Runbaa Tech is a Maldivian software development and publishing company delivering
                         enterprise software, secure system integration, and digital transformation solutions for
                         private and public sector clients.
                     </p>
@@ -24,7 +24,6 @@ const year = new Date().getFullYear();
                         <li><a href="#about" class="hover:text-blue-400">About Us</a></li>
                         <li><a href="#services" class="hover:text-blue-400">Services</a></li>
                         <li><a href="#work" class="hover:text-blue-400">Our Work</a></li>
-                        <li><a href="#team" class="hover:text-blue-400">Team</a></li>
                     </ul>
                 </div>
 
@@ -43,7 +42,7 @@ const year = new Date().getFullYear();
             </div>
 
             <div class="mt-12 flex flex-col items-center justify-between gap-4 border-t border-slate-800 pt-8 text-xs text-slate-500 md:flex-row">
-                <p>&copy; {{ year }} Runbaa Tech Pvt. Ltd. All rights reserved.</p>
+                <p>&copy; {{ year }} Runbaa Tech. All rights reserved.</p>
                 <p>Code. Innovate. Elevate.</p>
             </div>
         </div>
